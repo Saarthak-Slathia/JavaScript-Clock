@@ -8,6 +8,6 @@ setInterval(() => {
     date.innerText = `Current time is ${time}`;
 }, 1000);
 
-
+// Our JavaScript Clock is ready !!! 
 
 
